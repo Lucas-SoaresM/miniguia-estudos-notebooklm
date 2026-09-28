@@ -397,13 +397,7 @@ miniguia-financas-notebooklm/
 - Juros compostos são o maior aliado de quem investe e o maior inimigo de quem se endivida.
 - Não existe investimento perfeito: sempre há uma troca entre **risco, liquidez e rentabilidade**.
 
-### Próximos passos
-- [ ] Adicionar uma fonte sobre **renda variável** (ações e fundos) em um segundo caderno.
-- [ ] Criar uma **planilha de orçamento** aplicando o Módulo 1.
-- [ ] Gerar o **resumo em áudio** do NotebookLM e anexar o link ao repositório.
-- [ ] Revisar o miniguia a cada 3 meses usando os prompts da seção 4.3.
 
----
 
 > ⚠️ **Aviso:** este material tem finalidade exclusivamente **educacional** e não constitui recomendação de investimento. Regras, taxas e limites podem mudar; consulte sempre as fontes oficiais.
 
